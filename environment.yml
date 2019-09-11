@@ -1,0 +1,25 @@
+name: qb
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - numpy
+  - scipy
+  - scikit-learn
+  - tensorflow=1.14.0
+  - jupyterlab
+  - pandas-datareader
+  - pandas=0.24.2
+  - xmltodict
+  - requests
+  - lxml
+  - html5lib
+  - BeautifulSoup4
+  - matplotlib
+  - qgrid
+  - ipywidgets
+  - nodejs
+  - bokeh
+  - ipympl
+  - seaborn
